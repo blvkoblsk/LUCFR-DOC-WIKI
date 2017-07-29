@@ -1,10 +1,13 @@
 # LUCFR DOC WIKI
 
+#### Text-based docs, configurations, shell scripts, development and others
 
-#### Text-based documentation, configurations, shells scripts, development and others
+#### Heads Up!
+> Please be aware that the current scripts were written for Arch Linux yet should pose no issues for other Linux distros 
 
+---
 
-Please visit the WIKI here:
+Visit the Documnet WIKI here:
 
 https://github.com/blvkoblsk/lucfr-scripts/wiki/LUCFR-WIKI
 
