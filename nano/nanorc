@@ -45,7 +45,7 @@ set tabsize 4
 set tabstospaces
 # set tempfile
 # set view
-set whitespace "·"
+set whitespace ">."
 # set whitespace ">."
 set wordbounds
 set wordchars "<_>."
